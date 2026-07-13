@@ -82,7 +82,7 @@ GitHub 每天涌现大量 AI 项目，但 star 数高不等于值得关注——
 
 从 GitHub Search API 采集候选项目，需同时满足：
 
-- 关键词 `ai / llm / agent / gpt / mcp / rag` 命中项目名或描述
+- 关键词 `ai / llm / agent / gpt / mcp / rag / langchain / langgraph / copilot / chatbot / assistant / generative` 命中项目名或描述
 - 总 star ≥ 500（按 500-2000 / 2000-10000 / 10000+ 三档分别采样，保证小项目也有机会上榜）
 - 本周有代码推送（`pushed` 在 7 天内）
 - 排除 fork 仓库
