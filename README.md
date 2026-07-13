@@ -16,19 +16,17 @@
 
 不靠人工编辑，不靠主观推荐，**完全由数据驱动**。
 
-## 最近一期速览
+## 历史最有价值 Top 5
 
-> 📅 [2026-07-06 期](2026-07-06.md) · 当期 Top 5
-
+<!-- HALL_OF_FAME_START -->
 | # | 项目 | 评分 | 一句话 |
 |:--:|------|:----:|------|
-| 1 | [unicity-sphere/sphere](https://github.com/unicity-sphere/sphere) | 79.5 | 双层加密 Web3 钱包与智能代理平台，支持 Connect/Deep Links 协议接入 DApp |
-| 2 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 72.3 | 免费 AI 网关，一个端点聚合 237 家提供商，自动故障转移 + Token 压缩 |
-| 3 | [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | 71.6 | 高性能代码索引 MCP，亚毫秒查询，支持 158 种语言，削减 99% Token |
-| 4 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 68.0 | 重塑 AI 编码行为，让 AI 像懒高级开发，代码量平均减少 54% |
-| 5 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | 67.2 | 把代码库/SQL/文档/图像转成可交互查询的知识图谱 |
-
-👉 [查看完整 Top 10 报告](2026-07-06.md)
+| 1 | [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki) | 80.6 | LangChain 推出的命令行工具，自动编写和维护代码库文档 |
+| 2 | [unicity-sphere/sphere](https://github.com/unicity-sphere/sphere) | 79.5 | 专为 Unicity 网络设计的 Web3 钱包与智能代理平台 |
+| 3 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | 79.1 | 基于 Claude Code 构建的 AI 求职框架 |
+| 4 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 74.3 | 免费 AI 网关，一个端点聚合 237 家提供商 |
+| 5 | [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | 71.6 | 高性能代码索引 MCP，亚毫秒查询，支持 158 种语言 |
+<!-- HALL_OF_FAME_END -->
 
 ## 为什么看这个？
 
