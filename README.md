@@ -21,11 +21,11 @@
 <!-- HALL_OF_FAME_START -->
 | # | 项目 | 评分 | 一句话 |
 |:--:|------|:----:|------|
-| 1 | [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki) | 80.6 | LangChain 推出的命令行工具，自动编写和维护代码库文档 |
-| 2 | [unicity-sphere/sphere](https://github.com/unicity-sphere/sphere) | 79.5 | 专为 Unicity 网络设计的 Web3 钱包与智能代理平台 |
-| 3 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | 79.1 | 基于 Claude Code 构建的 AI 求职框架 |
-| 4 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 74.3 | 免费 AI 网关，一个端点聚合 237 家提供商 |
-| 5 | [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | 71.6 | 高性能代码索引 MCP，亚毫秒查询，支持 158 种语言 |
+| 1 | [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki) | 80.6 | OpenWiki 是一款由 LangChain 推出的命令行工具，专为 AI 代理设计，用于自动编写和维护代码库文档 |
+| 2 | [unicity-sphere/sphere](https://github.com/unicity-sphere/sphere) | 79.2 | Unicity AgentSphere 是专为 Unicity 网络打造的 Web3 钱包与智能体平台 |
+| 3 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | 79.1 | MadsLorentzen/ai-job-search 是一个基于 Claude Code 构建的 AI 求职框架 |
+| 4 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 74.3 | OmniRoute 是一款免费的 AI 网关，通过单一端点聚合了 237 个 AI 提供商，其中包含 90 余个免费渠道 |
+| 5 | [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | 71.5 | codebase-memory-mcp 是一款专为 AI 编程智能体设计的高性能代码智能 MCP 服务器 |
 <!-- HALL_OF_FAME_END -->
 
 ## 为什么看这个？
@@ -114,6 +114,7 @@ GitHub 每天涌现大量 AI 项目，但 star 数高不等于值得关注——
 ## 周报索引
 
 <!-- INDEX_START -->
+- [2026-07-15](2026-07-15.md)
 - [2026-07-13](2026-07-13.md)
 - [2026-07-10](2026-07-10.md)
 - [2026-07-08](2026-07-08.md)
