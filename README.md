@@ -21,11 +21,11 @@
 <!-- HALL_OF_FAME_START -->
 | # | 项目 | 评分 | 一句话 |
 |:--:|------|:----:|------|
-| 1 | [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki) | 80.6 | OpenWiki 是一款由 LangChain 推出的命令行工具，专为 AI 代理设计，用于自动编写和维护代码库文档 |
-| 2 | [drumih/turbo-fieldfare](https://github.com/drumih/turbo-fieldfare) | 79.7 | TurboFieldfare是一个专为Apple Silicon打造的大模型推理引擎 |
-| 3 | [unicity-sphere/sphere](https://github.com/unicity-sphere/sphere) | 79.2 | Unicity AgentSphere 是专为 Unicity 网络打造的 Web3 钱包与智能体平台 |
-| 4 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | 79.1 | MadsLorentzen/ai-job-search 是一个基于 Claude Code 构建的 AI 求职框架 |
-| 5 | [bytedoger/awesome-OpenPrice](https://github.com/bytedoger/awesome-OpenPrice) | 77.0 | OpenPrice是一个开源的AI产品订阅价格聚合项目，致力于打破信息茧房，为用户提供一站式的价格查询服务 |
+| 1 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | 85.8 | DeepSeek Harness（dsh）是 DeepSeek AI 开源的 Agent Harness 框架 |
+| 2 | [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki) | 80.6 | OpenWiki 是一款由 LangChain 推出的命令行工具，专为 AI 代理设计，用于自动编写和维护代码库文档 |
+| 3 | [drumih/turbo-fieldfare](https://github.com/drumih/turbo-fieldfare) | 79.7 | TurboFieldfare是一个专为Apple Silicon打造的大模型推理引擎 |
+| 4 | [unicity-sphere/sphere](https://github.com/unicity-sphere/sphere) | 79.2 | Unicity AgentSphere 是专为 Unicity 网络打造的 Web3 钱包与智能体平台 |
+| 5 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | 79.1 | MadsLorentzen/ai-job-search 是一个基于 Claude Code 构建的 AI 求职框架 |
 <!-- HALL_OF_FAME_END -->
 
 ## 为什么看这个？
@@ -115,6 +115,7 @@ GitHub 每天涌现大量 AI 项目，但 star 数高不等于值得关注——
 
 <!-- INDEX_START -->
 - [PROJECT_CATEGORIES](PROJECT_CATEGORIES.md)
+- [2026-08-17](2026-08-17.md)
 - [2026-08-10](2026-08-10.md)
 - [2026-08-03](2026-08-03.md)
 - [2026-07-30](2026-07-30.md)
