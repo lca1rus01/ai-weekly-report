@@ -21,11 +21,11 @@
 <!-- HALL_OF_FAME_START -->
 | # | 项目 | 评分 | 一句话 |
 |:--:|------|:----:|------|
-| 1 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | 85.8 | DeepSeek Harness（dsh）是 DeepSeek AI 开源的 Agent Harness 框架 |
-| 2 | [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki) | 80.6 | OpenWiki 是一款由 LangChain 推出的命令行工具，专为 AI 代理设计，用于自动编写和维护代码库文档 |
-| 3 | [drumih/turbo-fieldfare](https://github.com/drumih/turbo-fieldfare) | 79.7 | TurboFieldfare是一个专为Apple Silicon打造的大模型推理引擎 |
-| 4 | [unicity-sphere/sphere](https://github.com/unicity-sphere/sphere) | 79.2 | Unicity AgentSphere 是专为 Unicity 网络打造的 Web3 钱包与智能体平台 |
-| 5 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | 79.1 | MadsLorentzen/ai-job-search 是一个基于 Claude Code 构建的 AI 求职框架 |
+| 1 | [google/artemis](https://github.com/google/artemis) | 95.0 | ARTEMIS 是 Google 开源的自然语言 Android 自动化工具，可让 AI 助手和测试套件像人一样操作真实手机 |
+| 2 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | 85.8 | DeepSeek Harness（dsh）是 DeepSeek AI 开源的 Agent Harness 框架 |
+| 3 | [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki) | 80.6 | OpenWiki 是一款由 LangChain 推出的命令行工具，专为 AI 代理设计，用于自动编写和维护代码库文档 |
+| 4 | [drumih/turbo-fieldfare](https://github.com/drumih/turbo-fieldfare) | 79.7 | TurboFieldfare是一个专为Apple Silicon打造的大模型推理引擎 |
+| 5 | [unicity-sphere/sphere](https://github.com/unicity-sphere/sphere) | 79.2 | Unicity AgentSphere 是专为 Unicity 网络打造的 Web3 钱包与智能体平台 |
 <!-- HALL_OF_FAME_END -->
 
 ## 为什么看这个？
