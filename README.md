@@ -21,11 +21,11 @@
 <!-- HALL_OF_FAME_START -->
 | # | 项目 | 评分 | 一句话 |
 |:--:|------|:----:|------|
-| 1 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | 85.8 | DeepSeek Harness（dsh）是 DeepSeek AI 开源的 Agent Harness 框架 |
-| 2 | [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki) | 80.6 | OpenWiki 是一款由 LangChain 推出的命令行工具，专为 AI 代理设计，用于自动编写和维护代码库文档 |
-| 3 | [drumih/turbo-fieldfare](https://github.com/drumih/turbo-fieldfare) | 79.7 | TurboFieldfare是一个专为Apple Silicon打造的大模型推理引擎 |
-| 4 | [unicity-sphere/sphere](https://github.com/unicity-sphere/sphere) | 79.2 | Unicity AgentSphere 是专为 Unicity 网络打造的 Web3 钱包与智能体平台 |
-| 5 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | 79.1 | MadsLorentzen/ai-job-search 是一个基于 Claude Code 构建的 AI 求职框架 |
+| 1 | [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | 94.5 | Hindsight 是 Vectorize 开源的 Agent 记忆系统，目标是让 AI Agent 不只是回忆对话历史 |
+| 2 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | 85.8 | DeepSeek Harness（dsh）是 DeepSeek AI 开源的 Agent Harness 框架 |
+| 3 | [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki) | 80.6 | OpenWiki 是一款由 LangChain 推出的命令行工具，专为 AI 代理设计，用于自动编写和维护代码库文档 |
+| 4 | [drumih/turbo-fieldfare](https://github.com/drumih/turbo-fieldfare) | 79.7 | TurboFieldfare是一个专为Apple Silicon打造的大模型推理引擎 |
+| 5 | [unicity-sphere/sphere](https://github.com/unicity-sphere/sphere) | 79.2 | Unicity AgentSphere 是专为 Unicity 网络打造的 Web3 钱包与智能体平台 |
 <!-- HALL_OF_FAME_END -->
 
 ## 为什么看这个？
@@ -115,6 +115,7 @@ GitHub 每天涌现大量 AI 项目，但 star 数高不等于值得关注——
 
 <!-- INDEX_START -->
 - [PROJECT_CATEGORIES](PROJECT_CATEGORIES.md)
+- [2026-09-28](2026-09-28.md)
 - [2026-09-21](2026-09-21.md)
 - [2026-09-14](2026-09-14.md)
 - [2026-09-11](2026-09-11.md)
