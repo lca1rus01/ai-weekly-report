@@ -22,10 +22,10 @@
 | # | 项目 | 评分 | 一句话 |
 |:--:|------|:----:|------|
 | 1 | [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | 94.5 | Hindsight 是 Vectorize 开源的 Agent 记忆系统，目标是让 AI Agent 不只是回忆对话历史 |
-| 2 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | 85.8 | DeepSeek Harness（dsh）是 DeepSeek AI 开源的 Agent Harness 框架 |
-| 3 | [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki) | 80.6 | OpenWiki 是一款由 LangChain 推出的命令行工具，专为 AI 代理设计，用于自动编写和维护代码库文档 |
-| 4 | [drumih/turbo-fieldfare](https://github.com/drumih/turbo-fieldfare) | 79.7 | TurboFieldfare是一个专为Apple Silicon打造的大模型推理引擎 |
-| 5 | [unicity-sphere/sphere](https://github.com/unicity-sphere/sphere) | 79.2 | Unicity AgentSphere 是专为 Unicity 网络打造的 Web3 钱包与智能体平台 |
+| 2 | [Niko1221/Strata](https://github.com/Niko1221/Strata) | 91.6 | Strata 是一个面向消费级硬件的本地大模型推理引擎，让普通游戏 PC 也能运行 1250 亿参数的 Qwen3.8-Flash-Next |
+| 3 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | 85.8 | DeepSeek Harness（dsh）是 DeepSeek AI 开源的 Agent Harness 框架 |
+| 4 | [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki) | 80.6 | OpenWiki 是一款由 LangChain 推出的命令行工具，专为 AI 代理设计，用于自动编写和维护代码库文档 |
+| 5 | [drumih/turbo-fieldfare](https://github.com/drumih/turbo-fieldfare) | 79.7 | TurboFieldfare是一个专为Apple Silicon打造的大模型推理引擎 |
 <!-- HALL_OF_FAME_END -->
 
 ## 为什么看这个？
@@ -115,6 +115,7 @@ GitHub 每天涌现大量 AI 项目，但 star 数高不等于值得关注——
 
 <!-- INDEX_START -->
 - [PROJECT_CATEGORIES](PROJECT_CATEGORIES.md)
+- [2026-10-05](2026-10-05.md)
 - [2026-09-28](2026-09-28.md)
 - [2026-09-21](2026-09-21.md)
 - [2026-09-14](2026-09-14.md)
