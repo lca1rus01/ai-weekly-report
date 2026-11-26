@@ -19,13 +19,13 @@
 ## 历史最有价值 Top 5
 
 <!-- HALL_OF_FAME_START -->
-| # | 项目 | 评分 | 一句话 |
-|:--:|------|:----:|------|
-| 1 | [huggingface/transformers](https://github.com/huggingface/transformers) | 98.9 | Hugging Face Transformers 是以 PyTorch 统一的模型定义框架 |
-| 2 | [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) | 98.2 | TensorFlow 是 Google 开源的端到端机器学习平台，提供从数据预处理、模型定义与训练到部署推理的完整能力 |
-| 3 | [vllm-project/vllm](https://github.com/vllm-project/vllm) | 97.8 | vLLM 是高吞吐、显存高效的 LLM 推理与服务引擎，核心是用 PagedAttention 管理 KV Cache |
-| 4 | [huggingface/datasets](https://github.com/huggingface/datasets) | 95.8 | Hugging Face Datasets 是面向机器学习的数据集加载与预处理库 |
-| 5 | [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) | 94.6 | LangChain 团队维护的低层 Agent 编排框架，用图与共享状态组织节点执行 |
+| # | 项目 | 近7日新增Star | 质量分 | 一句话 |
+|:--:|------|:----:|:----:|------|
+| 1 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) | 5886 | 79.2 | rust-anything 是一个 Rust 编写的迁移验证工具：先用 record 在原应用上生成边界输入并录制返回值/异常 |
+| 2 | [mdiri-ai/SoduWork](https://github.com/mdiri-ai/SoduWork) | 5016 | 81.7 | SoduWork 是自托管的多 harness、多智能体协作引擎：以'请求/验收标准'为中心 |
+| 3 | [FlashML-org/FreeVideo](https://github.com/FlashML-org/FreeVideo) | 1725 | 83.0 | FreeVideo 是本地运行 MiniMax |
+| 4 | [n8n-io/nod](https://github.com/n8n-io/nod) | 1127 | 86.9 | Nod 是 n8n 团队开源的本地优先个人 agent 与「自带电脑」的执行环境：服务端负责 agent |
+| 5 | [FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt) | 1114 | 82.9 | Yogurt 是一个本地优先的 AI 会议记录桌面应用（Electron），录制麦克风与系统音频后 |
 <!-- HALL_OF_FAME_END -->
 
 ## 为什么看这个？
