@@ -21,11 +21,11 @@
 <!-- HALL_OF_FAME_START -->
 | # | 项目 | 评分 | 一句话 |
 |:--:|------|:----:|------|
-| 1 | [morluto/rea](https://github.com/morluto/rea) | 97.0 | REA 是一个面向逆向工程的开源 MCP 工具，目标是用智能体（agents）逆向分析任意对象，从应用行为一直深入到原生二进制 |
-| 2 | [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | 94.5 | Hindsight 是 Vectorize 开源的 Agent 记忆系统，目标是让 AI Agent 不只是回忆对话历史 |
-| 3 | [Niko1221/Strata](https://github.com/Niko1221/Strata) | 91.6 | Strata 是一个面向消费级硬件的本地大模型推理引擎，让普通游戏 PC 也能运行 1250 亿参数的 Qwen3.8-Flash-Next |
-| 4 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | 85.8 | DeepSeek Harness（dsh）是 DeepSeek AI 开源的 Agent Harness 框架 |
-| 5 | [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki) | 80.6 | OpenWiki 是一款由 LangChain 推出的命令行工具，专为 AI 代理设计，用于自动编写和维护代码库文档 |
+| 1 | [huggingface/transformers](https://github.com/huggingface/transformers) | 98.9 | Hugging Face Transformers 是以 PyTorch 统一的模型定义框架 |
+| 2 | [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) | 98.2 | TensorFlow 是 Google 开源的端到端机器学习平台，提供从数据预处理、模型定义与训练到部署推理的完整能力 |
+| 3 | [vllm-project/vllm](https://github.com/vllm-project/vllm) | 97.8 | vLLM 是高吞吐、显存高效的 LLM 推理与服务引擎，核心是用 PagedAttention 管理 KV Cache |
+| 4 | [huggingface/datasets](https://github.com/huggingface/datasets) | 95.8 | Hugging Face Datasets 是面向机器学习的数据集加载与预处理库 |
+| 5 | [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) | 94.6 | LangChain 团队维护的低层 Agent 编排框架，用图与共享状态组织节点执行 |
 <!-- HALL_OF_FAME_END -->
 
 ## 为什么看这个？
@@ -115,6 +115,7 @@ GitHub 每天涌现大量 AI 项目，但 star 数高不等于值得关注——
 
 <!-- INDEX_START -->
 - [PROJECT_CATEGORIES](PROJECT_CATEGORIES.md)
+- [2026-11-26](2026-11-26.md)
 - [2026-11-23](2026-11-23.md)
 - [2026-11-16](2026-11-16.md)
 - [2026-11-09](2026-11-09.md)
